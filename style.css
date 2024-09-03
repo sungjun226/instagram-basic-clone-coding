@@ -6,7 +6,7 @@ body {
     justify-content: center;
     flex-grow: 1;
     height: 2000px;
-    
+    min-width: 732px;
 }
 
 
@@ -220,7 +220,7 @@ section {
         right: 2vw;
         background-color: #1a1a1a;
         gap: 30px;
-        width: 400px;
+        width: 370px;
         margin-top: 200px;
 
     }
@@ -299,7 +299,6 @@ section {
     display: flex;
     flex-grow: 1;
     align-items: end;
-    gap: 10px;
     justify-content: space-between;
 }
 
